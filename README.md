@@ -1,4 +1,4 @@
-## Olá, meu nome é José Henrique aqui é onde eu posto alguns dos meu projetos de Análise de dados e Desenvolvimento de Sistemas.
+## Olá, meu nome é José Henrique e aqui é onde eu posto alguns dos meu projetos de Análise de dados e Desenvolvimento de Sistemas.
 
 - Cursando Análise e Desenvolvimento de Sistemas
 - Analista de Dados
